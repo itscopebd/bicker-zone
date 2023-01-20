@@ -23,3 +23,17 @@ featured section css
 hr{
     color: var(--primary-btn);
 }
+
+/*---------------
+ responsive css
+-----------------*/
+
+@media(max-width:991px){
+    a.nav-link.text-white.bg-primary.rounded.px-4 {
+        width: 100px;
+       
+    }
+    li.nav-item.ms-5 {
+        margin-left: 0 !important;
+    }
+}
