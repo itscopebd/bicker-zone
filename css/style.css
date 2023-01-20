@@ -5,14 +5,12 @@ header{
     --primary-btn:#E76F51;
 }
 
-.custom__btn{
-    padding: 10px 30px;
-    background: var(--primary-btn);
-    color: #fff;
-    font-size: 16px;
-    line-height: 24px;
-    border: none;
-    border-radius: 5px;
+/*------------------
+ ratting icon css 
+---------------------*/
+
+.ratting__icon{
+    width: 20px;
 }
 
 /*----------------- 
